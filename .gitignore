@@ -114,3 +114,4 @@ dmypy.json
 *.gz
 **/data/
 **/datasets/
+/Lab9.Object Detection and Tracking/yolov5/
